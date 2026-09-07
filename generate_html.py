@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-# 1. CSVファイルの読み込み
+# CSVファイルの読み込み
 df_live = pd.read_csv('浦島坂田船 現場まとめ - 公演マスタ.csv', encoding='utf-8')
 df_song = pd.read_csv('浦島坂田船 現場まとめ - 楽曲マスタ.csv', encoding='utf-8')
 df_pattern = pd.read_csv(
@@ -241,6 +241,7 @@ html_template = f"""<!DOCTYPE html>
         .header-shima {{ background-color: #e1bee7; }}
         .header-sakata {{ background-color: #ffcdd2; }}
         .header-senra {{ background-color: #fff9c4; }}
+        .header-default {{ background-color: #e0e0e0; }}
         .tour-title, .artist-title {{ font-size: 0.95em; }}
         .live-row, .song-master-row {{ border-bottom: 1px solid #eee; transition: background 0.2s; }}
         .live-row:last-child, .song-master-row:last-child {{ border-bottom: none; }}
@@ -335,16 +336,13 @@ html_template = f"""<!DOCTYPE html>
     }}
 
     function getHeaderClass(artist) {{
-        if (!artist) return 'header-usss';
-        
-        // 個人ソロ名義の判定（優先度高）
+        if (!artist) return 'header-default';
         if (artist.includes('うらたぬき')) return 'header-urata';
         if (artist.includes('志麻')) return 'header-shima';
-        if (artist.includes('坂田')) return 'header-sakata';
+        if (artist.includes('となりの坂田。')) return 'header-sakata';
         if (artist.includes('センラ')) return 'header-senra';
-        
-        # ソロ4名以外のグループ・コンビ・コラボ曲等はすべて水色(header-usss)にする
-        return 'header-usss';
+        if (artist.includes('浦島坂田船')) return 'header-usss';
+        return 'header-default';
     }}
 
     function renderLives() {{
