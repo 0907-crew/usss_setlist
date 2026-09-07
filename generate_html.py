@@ -241,7 +241,6 @@ html_template = f"""<!DOCTYPE html>
         .header-shima {{ background-color: #e1bee7; }}
         .header-sakata {{ background-color: #ffcdd2; }}
         .header-senra {{ background-color: #fff9c4; }}
-        .header-default {{ background-color: #e0e0e0; }}
         .tour-title, .artist-title {{ font-size: 0.95em; }}
         .live-row, .song-master-row {{ border-bottom: 1px solid #eee; transition: background 0.2s; }}
         .live-row:last-child, .song-master-row:last-child {{ border-bottom: none; }}
@@ -257,7 +256,7 @@ html_template = f"""<!DOCTYPE html>
         .play-count {{ background: #e2e3e5; color: #41464b; border-radius: 10px; padding: 2px 8px; font-size: 0.75em; font-weight: bold; }}
         .badge-count {{ background: #6c757d; color: white; border-radius: 10px; padding: 2px 8px; font-size: 0.75em; }}
         .no-song-msg {{ color: #888; font-style: italic; font-size: 0.85em; text-align: center; padding: 8px; }}
-        .live-check {{ width: 18px; height: 18px; cursor: pointer; }}
+        .live-check {{ width: 18px; height: 18px; cursor: pointer; margin-right: 10px; }}
     </style>
 </head>
 <body>
@@ -286,6 +285,7 @@ html_template = f"""<!DOCTYPE html>
                     <div class="col"><input type="text" id="song-search" class="form-control" placeholder="曲名で検索..." oninput="renderSongs()"></div>
                     <div class="col-auto">
                         <select id="song-sort-order" class="form-select" onchange="renderSongs()">
+                            <option value="count_desc" selected>参戦回数：多い順</option>
                             <option value="asc">投稿日：古い順</option>
                             <option value="desc">投稿日：新しい順</option>
                         </select>
@@ -336,13 +336,12 @@ html_template = f"""<!DOCTYPE html>
     }}
 
     function getHeaderClass(artist) {{
-        if (!artist) return 'header-default';
+        if (!artist) return 'header-usss';
         if (artist.includes('うらたぬき')) return 'header-urata';
         if (artist.includes('志麻')) return 'header-shima';
-        if (artist.includes('となりの坂田。')) return 'header-sakata';
+        if (artist.includes('坂田')) return 'header-sakata';
         if (artist.includes('センラ')) return 'header-senra';
-        if (artist.includes('浦島坂田船')) return 'header-usss';
-        return 'header-default';
+        return 'header-usss';
     }}
 
     function renderLives() {{
@@ -388,11 +387,9 @@ html_template = f"""<!DOCTYPE html>
                 liveRow.className = 'live-row';
                 liveRow.innerHTML = `
                     <div class="live-item-header d-flex justify-content-between align-items-center" data-bs-toggle="collapse" data-bs-target="#live-setlist-${{tIdx}}-${{lIdx}}">
-                        <div>
-                            <div class="live-title">${{live.date}} ${{live.venue}}</div>
-                        </div>
-                        <div class="d-flex align-items-center gap-2">
+                        <div class="d-flex align-items-center">
                             <input type="checkbox" class="form-check-input live-check" ${{isChecked}} onclick="toggleAttendance('${{live.id}}', event)">
+                            <div class="live-title">${{live.date}} ${{live.venue}}</div>
                         </div>
                     </div>
                     <div id="live-setlist-${{tIdx}}-${{lIdx}}" class="collapse setlist-container">
@@ -450,7 +447,18 @@ html_template = f"""<!DOCTYPE html>
             let songs = artistGroup.songs.filter(s => !searchKw || s.search.includes(searchKw));
             if (songs.length === 0) return;
 
-            songs.sort((a, b) => sortOrder === 'asc' ? a.date_num - b.date_num : b.date_num - a.date_num);
+            songs.sort((a, b) => {{
+                if (sortOrder === 'count_desc') {{
+                    const countA = attendedPlayCounts[a.id] || 0;
+                    const countB = attendedPlayCounts[b.id] || 0;
+                    if (countB !== countA) return countB - countA;
+                    return a.date_num - b.date_num;
+                }} else if (sortOrder === 'asc') {{
+                    return a.date_num - b.date_num;
+                }} else {{
+                    return b.date_num - a.date_num;
+                }}
+            }});
 
             totalSongsCount += songs.length;
             const headerClass = getHeaderClass(artistGroup.artist_name);
