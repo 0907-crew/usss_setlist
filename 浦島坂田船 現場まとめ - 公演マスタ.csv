@@ -1,0 +1,505 @@
+公演ID,ツアー名,日付,都道府県・会場,出演者
+2013_01,,2013/09/07,,浦島坂田船
+2013_02,,2013/09/28,,浦島坂田船
+2014_01,,2014/07/21,東京・吉祥寺CLUB SEATA,浦島坂田船
+2014_02,,2014/08/10,,浦島坂田船
+2014_03,,2014/08/23,,浦島坂田船
+2014_04,,2014/09/14,,浦島坂田船
+2015_01,,2015/05/02,,浦島坂田船
+2015_tour_01,2015 浦島坂田船ライブツアー -Listen to my voice-,2015/08/01,東京・TSUTAYA O-WEST,浦島坂田船
+2015_tour_02,2015 浦島坂田船ライブツアー -Listen to my voice-,2015/08/09,大阪・BIGCAT,浦島坂田船
+2015_tour_03,2015 浦島坂田船ライブツアー -Listen to my voice-,2015/09/12,愛知・CLUB QUATTRO,浦島坂田船
+2015_tour_04,2015 浦島坂田船ライブツアー -Listen to my voice-,2015/09/21,東京・TSUTAYA O-EAST,浦島坂田船
+2016_summer_01,SUMMER TOUR 2016 -CRUISE PARTY-,2016/07/03,大阪・Zepp Namba,浦島坂田船
+2016_summer_02,SUMMER TOUR 2016 -CRUISE PARTY-,2016/07/10,東京・TSUTAYA O-EAST(昼公演),浦島坂田船
+2016_summer_03,SUMMER TOUR 2016 -CRUISE PARTY-,2016/07/10,東京・TSUTAYA O-EAST(夜公演),浦島坂田船
+2016_summer_04,SUMMER TOUR 2016 -CRUISE PARTY-,2016/07/30,愛知・Zepp Nagoya,浦島坂田船
+2016_summer_05,SUMMER TOUR 2016 -CRUISE PARTY-,2016/07/31,岡山・CRAZYMAMA KINGDOM,浦島坂田船
+2016_summer_06,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/20,新潟・新潟LOTS(昼公演),浦島坂田船
+2016_summer_07,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/20,新潟・新潟LOTS(夜公演),浦島坂田船
+2016_summer_08,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/21,宮城・SENDAI CLUB JUNK BOX,浦島坂田船
+2016_summer_09,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/27,京都・KYOTO MUSE(昼公演),浦島坂田船
+2016_summer_10,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/27,京都・KYOTO MUSE(夜公演),浦島坂田船
+2016_summer_11,SUMMER TOUR 2016 -CRUISE PARTY-,2016/08/28,福岡・BEAT STATION,浦島坂田船
+2016_summer_12,SUMMER TOUR 2016 -CRUISE PARTY-,2016/09/03,静岡・SOUND SHOWER ark(昼公演),浦島坂田船
+2016_summer_13,SUMMER TOUR 2016 -CRUISE PARTY-,2016/09/03,静岡・SOUND SHOWER ark(夜公演),浦島坂田船
+2016_summer_14,SUMMER TOUR 2016 -CRUISE PARTY-,2016/09/17,東京・ディファ有明(昼公演),浦島坂田船
+2016_summer_15,SUMMER TOUR 2016 -CRUISE PARTY-,2016/09/17,東京・ディファ有明(夜公演),浦島坂田船
+2016_01,,2016/11/19,台湾・花漾Hana展演空間,浦島坂田船
+2016_02,,2016/11/26,長野・CLUB JUNK BOX,浦島坂田船
+2017_spring_01,Spring Tour 2017 ～春の宴～,2017/03/04,大阪・Zepp Namba,浦島坂田船
+2017_spring_02,Spring Tour 2017 ～春の宴～,2017/03/05,大阪・Zepp Namba,浦島坂田船
+2017_spring_03,Spring Tour 2017 ～春の宴～,2017/03/12,東京・豊洲PIT(昼公演),浦島坂田船
+2017_spring_04,Spring Tour 2017 ～春の宴～,2017/03/12,東京・豊洲PIT(夜公演),浦島坂田船
+2017_spring_05,Spring Tour 2017 ～春の宴～,2017/03/18,愛知・DIAMOND HALL(昼公演),浦島坂田船
+2017_spring_06,Spring Tour 2017 ～春の宴～,2017/03/18,愛知・DIAMOND HALL(夜公演),浦島坂田船
+2017_summer_01,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/07/22,高知・CARAVAN SARY,浦島坂田船
+2017_summer_02,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/07/23,香川・高松festhall(昼公演),浦島坂田船
+2017_summer_03,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/07/23,香川・高松festhall(夜公演),浦島坂田船
+2017_summer_04,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/07/29,青森・青森Quarter,浦島坂田船
+2017_summer_05,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/07/30,宮城・チームスマイル・仙台PIT,浦島坂田船
+2017_summer_06,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/08/03,東京・新木場STUDIO COAST(昼公演),浦島坂田船
+2017_summer_07,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/08/03,東京・新木場STUDIO COAST(夜公演),浦島坂田船
+2017_summer_08,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/08/19,大阪・Zepp Osaka Bayside(昼公演),浦島坂田船
+2017_summer_09,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/08/19,大阪・Zepp Osaka Bayside(夜公演),浦島坂田船
+2017_summer_10,SUMMER TOUR 2017 ~Beyond The Compass~ -BAND Edition-,2017/08/20,愛知・Zepp Nagoya,浦島坂田船
+2017_summer_11,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/08/26,広島・広島CULB QUATTRO(昼公演),浦島坂田船
+2017_summer_12,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/08/26,広島・広島CULB QUATTRO(夜公演),浦島坂田船
+2017_summer_13,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/08/27,福岡・DRUM LOGOS,浦島坂田船
+2017_summer_14,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/09/03,北海道・札幌PENNY LANE24(昼公演),浦島坂田船
+2017_summer_15,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/09/03,北海道・札幌PENNY LANE24(夜公演),浦島坂田船
+2017_summer_16,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/09/16,石川・金沢EIGHT HALL(昼公演),浦島坂田船
+2017_summer_17,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/09/16,石川・金沢EIGHT HALL(夜公演),浦島坂田船
+2017_summer_18,SUMMER TOUR 2017 ~Beyond The Compass~ -DJ Edition-,2017/09/17,福井・福井まちなか文化施設 響のホール,浦島坂田船
+2017_summer_19,SUMMER TOUR 2017 ~THE FINAL~,2017/10/28,東京・両国国技館,浦島坂田船
+2017_halloween_01,Happy Halloweeeen 浦島坂田幽霊船～コスプレしてLOVE(恋)♥～,2017/10/29,東京・両国国技館,浦島坂田船
+2018_spring_01,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/04,北海道・Zepp Sapporo,浦島坂田船
+2018_spring_02,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/10,広島・BLUE LIVE HIROSHIMA,浦島坂田船
+2018_spring_03,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/11,福岡・DRUM LOGOS,浦島坂田船
+2018_spring_04,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/17,大阪・Zepp Osaka Bayside(昼公演),浦島坂田船
+2018_spring_05,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/17,大阪・Zepp Osaka Bayside(夜公演),浦島坂田船
+2018_spring_06,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/22,愛知・Zepp Nagoya,浦島坂田船
+2018_spring_07,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/31,東京・Zepp DiverCity TOKYO(昼公演),浦島坂田船
+2018_spring_08,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/03/31,東京・Zepp DiverCity TOKYO(夜公演),浦島坂田船
+2018_spring_09,Spring Tour 2018 ~桜吹雪で乱de舞~,2018/04/05,東京・Zepp Tokyo,浦島坂田船
+2018_summer_01,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/07/07,福井・響ホール,浦島坂田船
+2018_summer_02,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/07/08,石川・金沢EIGHT HALL(昼公演),浦島坂田船
+2018_summer_03,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/07/08,石川・金沢EIGHT HALL(夜公演),浦島坂田船
+2018_summer_04,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ BAND Edition,2018/07/14,大阪・Zepp Namba,浦島坂田船
+2018_summer_05,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ BAND Edition,2018/07/15,大阪・Zepp Namba,浦島坂田船
+2018_summer_06,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ BAND Edition,2018/07/26,愛知・Zepp Nagoya,浦島坂田船
+2018_summer_07,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/08/04,京都・FANJ,浦島坂田船
+2018_summer_08,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/08/05,福岡・DRUM LOGOS(昼公演),浦島坂田船
+2018_summer_09,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ DJ Edition,2018/08/05,福岡・DRUM LOGOS(夜公演),浦島坂田船
+2018_summer_10,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ BAND Edition,2018/08/18,宮城・チームスマイル・仙台PIT(昼公演),浦島坂田船
+2018_summer_11,SUMMER TOUR 2018 ～俺SUMMERと、宇CHU♡旅行♡～ BAND Edition,2018/08/18,宮城・チームスマイル・仙台PIT(夜公演),浦島坂田船
+2018_5th_01,浦島坂田船 5th Anniversary ～熱♡CHU♡宙♡ 俺SUMMERと、宇CHU♡旅行♡～,2018/07/30,東京・日本武道館,浦島坂田船
+2018_5th_02,浦島坂田船 5th Anniversary ～熱♡CHU♡宙♡ 俺SUMMERと、宇CHU♡旅行♡～,2018/07/31,東京・日本武道館,浦島坂田船
+2018_summer_12,SUMMER TOUR 2018 ～THE FINAL～,2018/10/27,千葉・幕張イベントホール,浦島坂田船
+2018_halloween_01,Happy Halloweeeen 浦島坂田幽霊船～吸魂(求婚)パーティー！？ちょっと魔って♡もしかして僕にヨーカイ？～,2018/10/28,千葉・幕張イベントホール,浦島坂田船
+2019_spring_01,Spring Tour 2019 -斬(ZAN)-,2019/03/09,兵庫・ワールド記念ホール,浦島坂田船
+2019_spring_02,Spring Tour 2019 -斬(ZAN)-,2019/03/10,兵庫・ワールド記念ホール,浦島坂田船
+2019_spring_03,Spring Tour 2019 -斬(ZAN)-,2019/03/23,愛知・Zepp Nagoya,浦島坂田船
+2019_spring_04,Spring Tour 2019 -斬(ZAN)-,2019/03/25,福岡・Zepp Fukuoka,浦島坂田船
+2019_spring_05,Spring Tour 2019 -斬(ZAN)-,2019/03/30,北海道・Zepp Sapporo,浦島坂田船
+2019_spring_06,Spring Tour 2019 -斬(ZAN)-,2019/04/03,東京・両国国技館,浦島坂田船
+2019_spring_07,Spring Tour 2019 -斬(ZAN)-,2019/04/04,東京・両国国技館,浦島坂田船
+2019_summer_01,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/13,東京・オリンパスホール八王子,浦島坂田船
+2019_summer_02,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/20,静岡・静岡市民文化会館 大ホール,浦島坂田船
+2019_summer_03,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/21,愛知・名古屋国際会議場センチュリーホール,浦島坂田船
+2019_summer_04,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/27,石川・本多の森ホール,浦島坂田船
+2019_summer_05,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/28,富山・オーバード・ホール,浦島坂田船
+2019_summer_06,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/07/31,神奈川・パシフィコ横浜 国立大ホール,浦島坂田船
+2019_summer_07,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/01,神奈川・パシフィコ横浜 国立大ホール,浦島坂田船
+2019_summer_08,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/03,広島・広島文化学園HBGホール,浦島坂田船
+2019_summer_09,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/04,香川・サンポートホール高松 大ホール,浦島坂田船
+2019_summer_10,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/17,福島・けんしん郡山文化センター 大ホール,浦島坂田船
+2019_summer_11,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/18,宮城・仙台サンプラザホール,浦島坂田船
+2019_summer_12,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/20,大阪・大阪城ホール,浦島坂田船
+2019_summer_13,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/24,熊本・市民会館シアーズホーム夢ホール(熊本市民会館),浦島坂田船
+2019_summer_14,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/25,福岡・福岡サンパレス,浦島坂田船
+2019_summer_15,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/08/27,高知・高知市文化プラザ かるぽーと,浦島坂田船
+2019_summer_16,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/09/01,北海道・札幌芸術文化劇場hitaru,浦島坂田船
+2019_summer_17,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/09/14,大阪・グランキューブ大阪(大阪府立国際会議場) メインホール,浦島坂田船
+2019_summer_18,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/09/15,大阪・グランキューブ大阪(大阪府立国際会議場) メインホール,浦島坂田船
+2019_summer_19,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/10/05,千葉・幕張メッセ国際展示場1~3ホール,浦島坂田船
+2019_summer_20,SUMMER TOUR 2019 ～浦島theカジノ船 俺たち愛＄、今夜お前とBETイン～,2019/10/06,千葉・幕張メッセ国際展示場1~3ホール,浦島坂田船
+2019_halloween_01,Happy Halloweeeen 浦島坂田幽霊船～ようこそ令和元年 やっぱり霊はあかんねん 憑依GO！～,2019/10/22,兵庫・ワールド記念ホール,浦島坂田船
+2019_halloween_02,Happy Halloweeeen 浦島坂田幽霊船～ようこそ令和元年 やっぱり霊はあかんねん 憑依GO！～,2019/10/24,神奈川・横浜アリーナ,浦島坂田船
+2020_spring_01,Spring Tour 2020 -花(HANA)-,2020/02/23,石川・金沢歌劇座,浦島坂田船
+2020_spring_02,Spring Tour 2020 -花(HANA)-,2020/02/24,新潟・新潟テルサ,浦島坂田船
+2020_online_01,Live&Live~RAINBOW~,2020/12/26,ONLINE,浦島坂田船
+2020_online_02,Live&Live~CREW'S BEST~,2020/12/27,ONLINE,浦島坂田船
+2021_spring_01,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/02/28,茨城・結城市民文化センターアクロス,浦島坂田船
+2021_spring_02,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/13,宮崎・宮崎市民文化ホール 大ホール,浦島坂田船
+2021_spring_03,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/14,鹿児島・川商ホール 第1ホール(鹿児島市民文化ホール),浦島坂田船
+2021_spring_04,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/24,山口・周南市文化会館 大ホール,浦島坂田船
+2021_spring_05,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/25,岡山・倉敷市民会館,浦島坂田船
+2021_spring_06,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/30,東京・日本武道館,浦島坂田船
+2021_spring_07,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/03/31,東京・日本武道館,浦島坂田船
+2021_spring_08,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/03,兵庫・神戸国際会館こくさいホール,浦島坂田船
+2021_spring_09,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/04,死が・滋賀県立芸術劇場びわ湖ホール 大ホール,浦島坂田船
+2021_spring_10,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/15,岐阜・長良川国際会議場 メインホール,浦島坂田船
+2021_spring_11,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/17,福井・フェニックス・プラザ 大ホール,浦島坂田船
+2021_spring_12,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/18,京都・ロームシアター京都 メインホール,浦島坂田船
+2021_spring_13,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/24,山形・やまぎん県民ホール,浦島坂田船
+2021_spring_14,Spring Tour 2021 -花(HANA)- 桜花再凛,2021/04/25,ONLINE,浦島坂田船
+2021_summer_01,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/07/24,北海道・札幌文化芸術劇場hitaru,浦島坂田船
+2021_summer_02,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/07/28,東京・東京ガーデンシアター,浦島坂田船
+2021_summer_03,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/07/29,東京・東京ガーデンシアター,浦島坂田船
+2021_summer_04,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/07,愛知・日本ガイシホール,浦島坂田船
+2021_summer_05,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/08,愛知・日本ガイシホール,浦島坂田船
+2021_summer_06,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/14,福岡・マリンメッセ福岡,浦島坂田船
+2021_summer_07,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/20,宮城・ゼビオアリーナ仙台,浦島坂田船
+2021_summer_08,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/21,宮城・ゼビオアリーナ仙台,浦島坂田船
+2021_summer_09,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/24,大阪・大阪城ホール,浦島坂田船
+2021_summer_10,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/25,大阪・大阪城ホール,浦島坂田船
+2021_summer_11,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/28,広島・広島サンプラザホール,浦島坂田船
+2021_summer_12,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/08/29,広島・広島サンプラザホール,浦島坂田船
+2021_summer_13,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/09/04,高知・高知県立県民体育館,浦島坂田船
+2021_summer_14,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/09/05,高知・高知県立県民体育館,浦島坂田船
+2021_summer_15,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/09/11,島根・島根県民会館,浦島坂田船
+2021_summer_16,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/09/12,鳥取・とりぎん文化会館 梨花ホール,浦島坂田船
+2021_summer_17,SUMMER TOUR 2021～甘い∞(はち)密のような♡(恋)をしない？キミの放課後はボクのもの♡無限大の♡(LOVE)STARTぉ☆～,2021/12/28,千葉・幕張メッセ国際展示場9~11,浦島坂田船
+2021_halloween_01,Happy Halloweeeen 浦島坂田幽霊船～本気(マジ)か！MAGIC！マジカルミラクル！きゅるるるるん☆彡お菓子くなっちゃう♡もうっ//♡やメテオー！CHU♡ﾄﾞｰﾝ！～,2021/10/31,ONLINE,浦島坂田船
+2022_spring_01,Spring Tour 2022 ～令和浪漫～,2022/02/23,新潟・新潟テルサ,浦島坂田船
+2022_spring_02,Spring Tour 2022 ～令和浪漫～,2022/02/27,静岡・静岡市民文化会館 大ホール,浦島坂田船
+2022_spring_03,Spring Tour 2022 ～令和浪漫～,2022/03/05,長野・まつもと市民芸術館,浦島坂田船
+2022_spring_04,Spring Tour 2022 ～令和浪漫～,2022/03/06,石川・金沢歌劇座,浦島坂田船
+2022_spring_05,Spring Tour 2022 ～令和浪漫～,2022/03/12,青森・リンクステーションホール青森(青森市民文化会館),浦島坂田船
+2022_spring_06,Spring Tour 2022 ～令和浪漫～,2022/03/13,岩手・盛岡市民文化ホール 大ホール,浦島坂田船
+2022_spring_07,Spring Tour 2022 ～令和浪漫～,2022/03/21,徳島・アスティとくしま,浦島坂田船
+2022_spring_08,Spring Tour 2022 ～令和浪漫～,2022/03/22,兵庫・神戸国際会館こくさいホール,浦島坂田船
+2022_spring_09,Spring Tour 2022 ～令和浪漫～,2022/03/28,山梨・YCC県民文化ホール(山梨県立県民文化ホール),浦島坂田船
+2022_spring_10,Spring Tour 2022 ～令和浪漫～,2022/04/02,和歌山・和歌山県民文化会館 大ホール,浦島坂田船
+2022_spring_11,Spring Tour 2022 ～令和浪漫～,2022/04/03,奈良・なら100年会館 大ホール,浦島坂田船
+2022_spring_12,Spring Tour 2022 ～令和浪漫～,2022/04/05,三重・四日市市文化会館 第1ホール,浦島坂田船
+2022_spring_13,Spring Tour 2022 ～令和浪漫～,2022/04/09,神奈川・ぴあアリーナMM,浦島坂田船
+2022_spring_14,Spring Tour 2022 ～令和浪漫～,2022/04/10,神奈川・ぴあアリーナMM,浦島坂田船
+2022_spring_15,Spring Tour 2022 ～令和浪漫～,2022/04/14,山口・KDDI維新ホール,浦島坂田船
+2022_spring_16,Spring Tour 2022 ～令和浪漫～,2022/04/16,佐賀・佐賀市文化会館,浦島坂田船
+2022_spring_17,Spring Tour 2022 ～令和浪漫～,2022/04/17,長崎・長崎ブリックホール,浦島坂田船
+2022_spring_18,Spring Tour 2022 ～令和浪漫～,2022/04/23,大分・iichikoグランシアタ,浦島坂田船
+2022_spring_19,Spring Tour 2022 ～令和浪漫～,2022/04/24,愛媛・愛媛県県民文化会館 メインホール,浦島坂田船
+2022_spring_20,Spring Tour 2022 ～令和浪漫～,2022/04/29,沖縄・沖縄コンベンションセンター劇場棟,浦島坂田船
+2022_spring_21,Spring Tour 2022 ～令和浪漫～,2022/04/30,沖縄・沖縄コンベンションセンター劇場棟,浦島坂田船
+2022_summer_01,SUMMER TOUR2022 Toni9ht,2022/07/29,宮城・ゼビオアリーナ仙台,浦島坂田船
+2022_summer_02,SUMMER TOUR2022 Toni9ht,2022/07/30,宮城・ゼビオアリーナ仙台,浦島坂田船
+2022_summer_03,SUMMER TOUR2022 Toni9ht,2022/08/02,北海道・北海道立総合体育センター 北海きたえーる,浦島坂田船
+2022_summer_04,SUMMER TOUR2022 Toni9ht,2022/08/11,福岡・マリンメッセ福岡,浦島坂田船
+2022_summer_05,SUMMER TOUR2022 Toni9ht,2022/08/16,東京・国立代々木競技場第一体育館,浦島坂田船
+2022_summer_06,SUMMER TOUR2022 Toni9ht,2022/08/17,東京・国立代々木競技場第一体育館,浦島坂田船
+2022_summer_07,SUMMER TOUR2022 Toni9ht,2022/08/20,広島・広島サンプラザホール,浦島坂田船
+2022_summer_08,SUMMER TOUR2022 Toni9ht,2022/08/21,広島・広島サンプラザホール,浦島坂田船
+2022_summer_09,SUMMER TOUR2022 Toni9ht,2022/08/23,大阪・大阪城ホール,浦島坂田船
+2022_summer_10,SUMMER TOUR2022 Toni9ht,2022/08/24,大阪・大阪城ホール,浦島坂田船
+2022_summer_11,SUMMER TOUR2022 Toni9ht,2022/09/10,東京・有明アリーナ,浦島坂田船
+2022_summer_12,SUMMER TOUR2022 Toni9ht,2022/09/11,東京・有明アリーナ,浦島坂田船
+2022_summer_13,SUMMER TOUR2022 Toni9ht,2022/09/23,静岡・エコパアリーナ,浦島坂田船
+2022_summer_14,SUMMER TOUR2022 Toni9ht,2023/01/28,静岡・エコパアリーナ,浦島坂田船
+2022_summer_15,SUMMER TOUR2022 Toni9ht,2023/01/29,静岡・エコパアリーナ,浦島坂田船
+2022_halloween_01,Happy Halloweeeen 浦島坂田幽霊船 Ψ悪魔執事Ψ あなたが飽くまで仕えます♡ワタクシかなり使えます♡ちゃんとしni9htお仕置きデビか～？？？？,2022/10/22,兵庫・ワールド記念ホール,浦島坂田船
+2022_halloween_02,Happy Halloweeeen 浦島坂田幽霊船 Ψ悪魔執事Ψ あなたが飽くまで仕えます♡ワタクシかなり使えます♡ちゃんとしni9htお仕置きデビか～？？？？,2022/10/23,兵庫・ワールド記念ホール,浦島坂田船
+2022_halloween_03,Happy Halloweeeen 浦島坂田幽霊船 Ψ悪魔執事Ψ あなたが飽くまで仕えます♡ワタクシかなり使えます♡ちゃんとしni9htお仕置きデビか～？？？？,2022/10/29,千葉・幕張メッセ国際展示場9~11,浦島坂田船
+2022_halloween_04,Happy Halloweeeen 浦島坂田幽霊船 Ψ悪魔執事Ψ あなたが飽くまで仕えます♡ワタクシかなり使えます♡ちゃんとしni9htお仕置きデビか～？？？？,2022/10/30,千葉・幕張メッセ国際展示場9~11,浦島坂田船
+2023_spring_01,Spring Tour 2023 彩-sai-,2023/03/19,栃木・宇都宮市文化会館 大ホール,浦島坂田船
+2023_spring_02,Spring Tour 2023 彩-sai-,2023/03/21,群馬・高崎芸術劇場 大劇場,浦島坂田船
+2023_spring_03,Spring Tour 2023 彩-sai-,2023/03/24,鹿児島・川商ホール 第1ホール(鹿児島市民文化ホール),浦島坂田船
+2023_spring_04,Spring Tour 2023 彩-sai-,2023/03/26,熊本・熊本城ホール メインホール,浦島坂田船
+2023_spring_05,Spring Tour 2023 彩-sai-,2023/03/29,滋賀・滋賀県立芸術劇場びわ湖ホール 大ホール,浦島坂田船
+2023_spring_06,Spring Tour 2023 彩-sai-,2023/03/30,京都・ロームシアター京都 メインホール,浦島坂田船
+2023_spring_07,Spring Tour 2023 彩-sai-,2023/04/03,香川・レクザムホール(香川県県民ホール)大ホール,浦島坂田船
+2023_spring_08,Spring Tour 2023 彩-sai-,2023/04/04,岡山・岡山市民会館,浦島坂田船
+2023_spring_09,Spring Tour 2023 彩-sai-,2023/04/08,岩手・岩手県民会館大ホール,浦島坂田船
+2023_spring_10,Spring Tour 2023 彩-sai-,2023/04/09,秋田・あきた芸術劇場ミルハス 大ホール,浦島坂田船
+2023_spring_11,Spring Tour 2023 彩-sai-,2023/04/15,長野・ホクト文化ホール 大ホール,浦島坂田船
+2023_spring_12,Spring Tour 2023 彩-sai-,2023/04/16,富山・オーバード・ホール,浦島坂田船
+2023_10th,浦島坂田船10th Anniversary ～Memorial Live～,2023/04/29,埼玉・さいたまスーパーアリーナ,浦島坂田船
+2023_summer_01,SUMMER TOUR 2023 Plusss,2023/07/15,愛知・日本ガイシホール,浦島坂田船
+2023_summer_02,SUMMER TOUR 2023 Plusss,2023/07/22,広島・広島サンプラザホール,浦島坂田船
+2023_summer_03,SUMMER TOUR 2023 Plusss,2023/07/23,広島・広島サンプラザホール,浦島坂田船
+2023_summer_04,SUMMER TOUR 2023 Plusss,2023/07/29,宮城・ゼビオアリーナ仙台,浦島坂田船
+2023_summer_05,SUMMER TOUR 2023 Plusss,2023/07/30,宮城・ゼビオアリーナ仙台,浦島坂田船
+2023_summer_06,SUMMER TOUR 2023 Plusss,2023/08/11,兵庫・神戸ワールド記念ホール,浦島坂田船
+2023_summer_07,SUMMER TOUR 2023 Plusss,2023/08/12,兵庫・神戸ワールド記念ホール,浦島坂田船
+2023_summer_08,SUMMER TOUR 2023 Plusss,2023/08/14,福岡・福岡国際センター,浦島坂田船
+2023_summer_09,SUMMER TOUR 2023 Plusss,2023/08/25,東京・国立代々木競技場第一体育館,浦島坂田船
+2023_summer_10,SUMMER TOUR 2023 Plusss,2023/08/26,東京・国立代々木競技場第一体育館,浦島坂田船
+2023_summer_11,SUMMER TOUR 2023 Plusss,2023/08/31,北海道・旭川市民文化会館 大ホール,浦島坂田船
+2023_summer_12,SUMMER TOUR 2023 Plusss,2023/09/01,北海道・旭川市民文化会館 大ホール,浦島坂田船
+2023_summer_13,SUMMER TOUR 2023 Plusss,2023/09/07,石川・本多の森ホール,浦島坂田船
+2023_summer_14,SUMMER TOUR 2023 Plusss,2023/09/08,新潟・新潟県民会館 大ホール,浦島坂田船
+2023_summer_15,SUMMER TOUR 2023 Plusss,2023/09/17,徳島・アスティとくしま,浦島坂田船
+2023_summer_16,SUMMER TOUR 2023 Plusss,2023/09/18,徳島・アスティとくしま,浦島坂田船
+2023_summer_17,SUMMER TOUR 2023 Plusss,2023/09/23,静岡・静岡エコパアリーナ,浦島坂田船
+2023_halloween_01,Happy Halloweeeen 浦島坂田幽霊船 ～キャッ！とめられないの!?いたずらしニャイで♡でもご主人タマがすこすこすこてぃっしゅHOLD♡～,2023/10/21,東京・有明アリーナ,浦島坂田船
+2023_halloween_02,Happy Halloweeeen 浦島坂田幽霊船 ～キャッ！とめられないの!?いたずらしニャイで♡でもご主人タマがすこすこすこてぃっしゅHOLD♡～,2023/10/22,東京・有明アリーナ,浦島坂田船
+2024_solofes_01,USSS SOLO FESTIVAL 2024 -ソロフェス-,2024/02/10,東京・東京ガーデンシアター,浦島坂田船
+2024_solofes_02,USSS SOLO FESTIVAL 2024 -ソロフェス-,2024/02/11,東京・東京ガーデンシアター,浦島坂田船
+2024_solofes_03,USSS SOLO FESTIVAL 2024 -ソロフェス-,2024/03/03,東京・日本武道館,浦島坂田船
+2024_spring_01,Spring Tour 2024 ～四春祭～,2024/03/20,兵庫・アクリエひめじ(姫路市文化コンベンションセンター),浦島坂田船
+2024_spring_02,Spring Tour 2024 ～四春祭～,2024/03/23,和歌山・和歌山県民文化会館 大ホール,浦島坂田船
+2024_spring_03,Spring Tour 2024 ～四春祭～,2024/03/24,奈良・なら100年会館 大ホール,浦島坂田船
+2024_spring_04,Spring Tour 2024 ～四春祭～,2024/03/28,福井・フェニックス・プラザ 大ホール,浦島坂田船
+2024_spring_05,Spring Tour 2024 ～四春祭～,2024/03/29,三重・四日市市文化会館 第1ホール,浦島坂田船
+2024_spring_06,Spring Tour 2024 ～四春祭～,2024/03/31,愛知・名古屋国際会議場センチュリーホール,浦島坂田船
+2024_spring_07,Spring Tour 2024 ～四春祭～,2024/04/05,福岡・北九州ソレイユホール,浦島坂田船
+2024_spring_08,Spring Tour 2024 ～四春祭～,2024/04/07,高知・高知県立県民文化ホール オレンジホール,浦島坂田船
+2024_spring_09,Spring Tour 2024 ～四春祭～,2024/04/12,北海道・札幌文化芸術劇場hitaru,浦島坂田船
+2024_spring_10,Spring Tour 2024 ～四春祭～,2024/04/14,青森・リンクステーションホール青森(青森市民文化会館),浦島坂田船
+2024_spring_11,Spring Tour 2024 ～四春祭～,2024/04/19,山口・周南市文化会館,浦島坂田船
+2024_spring_12,Spring Tour 2024 ～四春祭～,2024/04/21,鳥取・米子コンベンションセンター BiG SHiP,浦島坂田船
+2024_spring_13,Spring Tour 2024 ～四春祭～,2024/04/27,東京・有明アリーナ,浦島坂田船
+2024_spring_14,Spring Tour 2024 ～四春祭～,2024/04/28,東京・有明アリーナ,浦島坂田船
+2024_summer_01,SUMMER TOUR 2024 Weddiing,2024/07/20,広島・広島サンプラザホール,浦島坂田船
+2024_summer_02,SUMMER TOUR 2024 Weddiing,2024/07/21,広島・広島サンプラザホール,浦島坂田船
+2024_summer_03,SUMMER TOUR 2024 Weddiing,2024/07/27,宮城・ゼビオアリーナ仙台,浦島坂田船
+2024_summer_04,SUMMER TOUR 2024 Weddiing,2024/07/28,宮城・ゼビオアリーナ仙台,浦島坂田船
+2024_summer_05,SUMMER TOUR 2024 Weddiing,2024/08/03,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2024_summer_06,SUMMER TOUR 2024 Weddiing,2024/08/04,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2024_summer_07,SUMMER TOUR 2024 Weddiing,2024/08/24,福岡・福岡国際センター,浦島坂田船
+2024_summer_08,SUMMER TOUR 2024 Weddiing,2024/08/25,福岡・福岡国際センター,浦島坂田船
+2024_summer_09,SUMMER TOUR 2024 Weddiing,2024/09/07,兵庫・ワールド記念ホール,浦島坂田船
+2024_summer_10,SUMMER TOUR 2024 Weddiing,2024/09/08,兵庫・ワールド記念ホール,浦島坂田船
+2024_summer_11,SUMMER TOUR 2024 Weddiing,2024/09/14,愛知・Aichi Sky Expo(愛知国際展示場) ホールA,浦島坂田船
+2024_summer_12,SUMMER TOUR 2024 Weddiing,2024/09/15,愛知・Aichi Sky Expo(愛知国際展示場) ホールA,浦島坂田船
+2024_halloween_01,Happy Halloweeeen 浦島坂田幽霊船 さぁ手をとってshall we dance? 舞踏会はもう明日！？まだはえーよ！マスカレード！ ぬっはー！仮面の下はｶﾒｪﾝｸﾞｽｩﾝ ｽｩﾝ…ｽｩﾝ…ｽｩﾝ…,2024/10/12,神奈川・ぴあアリーナMM,浦島坂田船
+2024_halloween_02,Happy Halloweeeen 浦島坂田幽霊船 さぁ手をとってshall we dance? 舞踏会はもう明日！？まだはえーよ！マスカレード！ ぬっはー！仮面の下はｶﾒｪﾝｸﾞｽｩﾝ ｽｩﾝ…ｽｩﾝ…ｽｩﾝ…,2024/10/13,神奈川・ぴあアリーナMM,浦島坂田船
+2024_halloween_03,Happy Halloweeeen 浦島坂田幽霊船 さぁ手をとってshall we dance? 舞踏会はもう明日！？まだはえーよ！マスカレード！ ぬっはー！仮面の下はｶﾒｪﾝｸﾞｽｩﾝ ｽｩﾝ…ｽｩﾝ…ｽｩﾝ…,2024/10/14,神奈川・ぴあアリーナMM,浦島坂田船
+2025_cover_01,浦島坂田船～歌ってみた祭り！～,2025/02/14,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2025_cover_02,浦島坂田船～歌ってみた祭り！～,2025/02/15,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2025_spring_01,Spring Tour 2025 ～月～,2025/02/21,東京・東京ガーデンシアター,浦島坂田船
+2025_spring_02,Spring Tour 2025 ～月～,2025/02/22,東京・東京ガーデンシアター,浦島坂田船
+2025_spring_03,Spring Tour 2025 ～月～,2025/03/01,群馬・ベイシア文化ホール,浦島坂田船
+2025_spring_04,Spring Tour 2025 ～月～,2025/03/02,栃木・栃木県総合文化センター,浦島坂田船
+2025_spring_05,Spring Tour 2025 ～月～,2025/03/08,山形・やまぎん県民ホール(山形総合文化芸術館),浦島坂田船
+2025_spring_06,Spring Tour 2025 ～月～,2025/03/09,福島・けんしん郡山文化センター 大ホール,浦島坂田船
+2025_spring_07,Spring Tour 2025 ～月～,2025/03/14,石川・本多の森ホール 北電ホール,浦島坂田船
+2025_spring_08,Spring Tour 2025 ～月～,2025/03/15,富山・オーバード・ホール 大ホール,浦島坂田船
+2025_spring_09,Spring Tour 2025 ～月～,2025/03/19,三重・四日市市文化会館 第1ホール,浦島坂田船
+2025_spring_10,Spring Tour 2025 ～月～,2025/03/21,兵庫・アクリエひめじ(姫路市文化コンベンションセンター),浦島坂田船
+2025_spring_11,Spring Tour 2025 ～月～,2025/03/22,岡山・倉敷市民会館,浦島坂田船
+2025_spring_12,Spring Tour 2025 ～月～,2025/03/28,香川・サンポートホール高松 大ホール,浦島坂田船
+2025_spring_13,Spring Tour 2025 ～月～,2025/03/30,愛媛・松山市民会館 大ホール,浦島坂田船
+2025_spring_14,Spring Tour 2025 ～月～,2025/04/02,京都・ロームシアター京都 メインホール,浦島坂田船
+2025_spring_15,Spring Tour 2025 ～月～,2025/04/04,静岡・静岡市清水文化会館(マリナート) 大ホール,浦島坂田船
+2025_spring_16,Spring Tour 2025 ～月～,2025/04/05,山梨・YCC県民文化ホール(山梨県立県民文化ホール),浦島坂田船
+2025_spring_17,Spring Tour 2025 ～月～,2025/04/12,長崎・長崎ブリックホール,浦島坂田船
+2025_spring_18,Spring Tour 2025 ～月～,2025/04/13,佐賀・佐賀市文化会館,浦島坂田船
+2025_spring_19,Spring Tour 2025 ～月～,2025/04/18,滋賀・滋賀県立芸術劇場びわ湖ホール 大ホール,浦島坂田船
+2025_spring_20,Spring Tour 2025 ～月～,2025/04/20,山口・KDDI維新ホール,浦島坂田船
+2025_spring_21,Spring Tour 2025 ～月～,2025/04/26,沖縄・沖縄コンベンションセンター劇場棟(会議場C),浦島坂田船
+2025_spring_22,Spring Tour 2025 ～月～,2025/04/27,沖縄・沖縄コンベンションセンター劇場棟(会議場C),浦島坂田船
+2025_summer_01,SUMMER TOUR 2025 WARN12G,2025/07/05,大阪・大阪城ホール,浦島坂田船
+2025_summer_02,SUMMER TOUR 2025 WARN12G,2025/07/06,大阪・大阪城ホール,浦島坂田船
+2025_summer_03,SUMMER TOUR 2025 WARN12G,2025/07/26,兵庫・GLION ARENA KOBE,浦島坂田船
+2025_summer_04,SUMMER TOUR 2025 WARN12G,2025/08/02,静岡・エコパアリーナ,浦島坂田船
+2025_summer_05,SUMMER TOUR 2025 WARN12G,2025/08/10,東京・国立代々木競技場第一体育館,浦島坂田船
+2025_summer_06,SUMMER TOUR 2025 WARN12G,2025/08/11,東京・国立代々木競技場第一体育館,浦島坂田船
+2025_summer_07,SUMMER TOUR 2025 WARN12G,2025/08/30,広島・広島サンプラザホール,浦島坂田船
+2025_summer_08,SUMMER TOUR 2025 WARN12G,2025/08/31,広島・広島サンプラザホール,浦島坂田船
+2025_summer_09,SUMMER TOUR 2025 WARN12G,2025/09/13,宮城・ゼビオアリーナ仙台,浦島坂田船
+2025_summer_10,SUMMER TOUR 2025 WARN12G,2025/09/14,宮城・ゼビオアリーナ仙台,浦島坂田船
+2025_summer_11,SUMMER TOUR 2025 WARN12G,2025/09/20,福岡・福岡国際センター,浦島坂田船
+2025_summer_12,SUMMER TOUR 2025 WARN12G,2025/09/21,福岡・福岡国際センター,浦島坂田船
+2025_halloween_01,Happy Halloweeeen 浦島坂田幽霊船 ～え!?くぅｯｯ///そっ♡（腰に手をぽふっ）shh...STRONG...俺の弾丸をﾊﾞｷｭうーﾝ♡ﾎｯ､もう地獄はサッタンDEATHね～,2025/10/18,東京・有明アリーナ,浦島坂田船
+2025_halloween_02,Happy Halloweeeen 浦島坂田幽霊船 ～え!?くぅｯｯ///そっ♡（腰に手をぽふっ）shh...STRONG...俺の弾丸をﾊﾞｷｭうーﾝ♡ﾎｯ､もう地獄はサッタンDEATHね～,2025/10/19,東京・有明アリーナ,浦島坂田船
+2025_halloween_03,Happy Halloweeeen 浦島坂田幽霊船 ～え!?くぅｯｯ///そっ♡（腰に手をぽふっ）shh...STRONG...俺の弾丸をﾊﾞｷｭうーﾝ♡ﾎｯ､もう地獄はサッタンDEATHね～,2025/10/25,兵庫・ワールド記念ホール,浦島坂田船
+2025_halloween_04,Happy Halloweeeen 浦島坂田幽霊船 ～え!?くぅｯｯ///そっ♡（腰に手をぽふっ）shh...STRONG...俺の弾丸をﾊﾞｷｭうーﾝ♡ﾎｯ､もう地獄はサッタンDEATHね～,2025/10/26,兵庫・ワールド記念ホール,浦島坂田船
+2026_spring_01,Spring Tour 2026 ～夜叉～,2026/03/05,北海道・札幌文化芸術劇場hitaru,浦島坂田船
+2026_spring_02,Spring Tour 2026 ～夜叉～,2026/03/07,秋田・あきた芸術劇場ミルハス 大ホール,浦島坂田船
+2026_spring_03,Spring Tour 2026 ～夜叉～,2026/03/08,岩手・トーサイクラシックホール岩手(岩手県民会館)大ホール,浦島坂田船
+2026_spring_04,Spring Tour 2026 ～夜叉～,2026/03/15,茨城・水戸市民グロービスホール,浦島坂田船
+2026_spring_05,Spring Tour 2026 ～夜叉～,2026/03/21,高知・高知県立県民文化ホール オレンジホール,浦島坂田船
+2026_spring_06,Spring Tour 2026 ～夜叉～,2026/03/22,香川・サンポートホール高松 大ホール,浦島坂田船
+2026_spring_07,Spring Tour 2026 ～夜叉～,2026/03/28,石川・金沢歌劇座,浦島坂田船
+2026_spring_08,Spring Tour 2026 ～夜叉～,2026/03/29,福井・フェニックス・プラザ エルピス大ホール,浦島坂田船
+2026_spring_09,Spring Tour 2026 ～夜叉～,2026/04/02,岡山・岡山芸術創造劇場ハレノワ 大劇場,浦島坂田船
+2026_spring_10,Spring Tour 2026 ～夜叉～,2026/04/04,滋賀・滋賀県立芸術劇場びわ湖ホール 大ホール,浦島坂田船
+2026_spring_11,Spring Tour 2026 ～夜叉～,2026/04/05,奈良・なら100年会館 大ホール,浦島坂田船
+2026_spring_12,Spring Tour 2026 ～夜叉～,2026/04/07,岐阜・長良川国際会議場 メインホール,浦島坂田船
+2026_spring_13,Spring Tour 2026 ～夜叉～,2026/04/09,静岡・アクトシティ浜松 大ホール,浦島坂田船
+2026_spring_14,Spring Tour 2026 ～夜叉～,2026/04/12,群馬・高崎芸術劇場 大劇場,浦島坂田船
+2026_spring_15,Spring Tour 2026 ～夜叉～,2026/04/18,大分・iichikoグランシアタ,浦島坂田船
+2026_spring_16,Spring Tour 2026 ～夜叉～,2026/04/19,熊本・熊本城ホール メインホール,浦島坂田船
+2026_spring_17,Spring Tour 2026 ～夜叉～,2026/04/25,東京・TOKYO ARIAKE ARENA,浦島坂田船
+2026_spring_18,Spring Tour 2026 ～夜叉～,2026/04/26,東京・TOKYO ARIAKE ARENA,浦島坂田船
+2026_summer_01,SUMMER TOUR 2026 TA13OO,2026/07/18,兵庫・神戸ワールド記念ホール,浦島坂田船
+2026_summer_02,SUMMER TOUR 2026 TA13OO,2026/07/19,兵庫・神戸ワールド記念ホール,浦島坂田船
+2026_summer_03,SUMMER TOUR 2026 TA13OO,2026/07/25,福岡・マリンメッセ福岡 B館,浦島坂田船
+2026_summer_04,SUMMER TOUR 2026 TA13OO,2026/07/26,福岡・マリンメッセ福岡 B館,浦島坂田船
+2026_summer_05,SUMMER TOUR 2026 TA13OO,2026/08/01,宮城・ゼビオアリーナ仙台,浦島坂田船
+2026_summer_06,SUMMER TOUR 2026 TA13OO,2026/08/02,宮城・ゼビオアリーナ仙台,浦島坂田船
+2026_summer_07,SUMMER TOUR 2026 TA13OO,2026/08/07,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2026_summer_08,SUMMER TOUR 2026 TA13OO,2026/08/08,千葉・LaLa arena TOKYO-BAY,浦島坂田船
+2026_summer_09,SUMMER TOUR 2026 TA13OO,2026/08/22,大阪・大阪城ホール,浦島坂田船
+2026_summer_10,SUMMER TOUR 2026 TA13OO,2026/08/23,大阪・大阪城ホール,浦島坂田船
+2014_urata_01,ワッフル劇場〜うらたぬきワンマンライブツアー〜,2014/01/25,大阪・Namba Rockets,うらたぬき
+2014_urata_02,ワッフル劇場〜うらたぬきワンマンライブツアー〜,2014/01/26,愛知・栄MUJIKA,うらたぬき
+2014_urata_03,ワッフル劇場〜うらたぬきワンマンライブツアー〜,2014/02/01,東京・吉祥寺CLUB SEATA,うらたぬき
+2016_urata_01,初めてのHappy!!Birthday!!Live!!〜誕生日明日じゃね？〜,2016/08/08,東京・LIQQUID ROOM,うらたぬき
+2017_urata_01,Uratanuki Birthday Live〜cute style〜,2017/08/17,東京・TSUTAYA O-EAST,うらたぬき
+2017_urata_02,Uratanuki Birthday Live〜cool style〜,2017/08/17,東京・TSUTAYA O-EAST,うらたぬき
+2018_urata_01,Uratanuki Birthday Live〜Greedy World〜,2018/08/09,東京・Zepp Diver City,うらたぬき
+2018_urata_02,Uratanuki Birthday Live〜Greedy World〜,2018/08/11,大阪・なんばHatch,うらたぬき
+2019_urata_01,Uratanuki Birthday Live〜Unlimited〜,2019/08/09,大阪・Zepp Namba,うらたぬき
+2019_urata_02,Uratanuki Birthday Live〜Unlimited〜,2019/08/12,東京・Zepp Tokyo,うらたぬき
+2021_urata_01,Uratanuki Birthday Online Live〜date〜,2021/08/09,ONLINE,うらたぬき
+2022_urata_01,Uratanuki Birthday Live〜Love!Love!〜,2022/08/08,愛知・愛知県芸術劇場 大ホール,うらたぬき
+2022_urata_02,Uratanuki Birthday Live〜Love!Love!〜,2022/08/09,東京・LINE CUBE SHIBUYA,うらたぬき
+2022_urata_03,Uratanuki Birthday Live〜Love!Love!〜,2022/08/28,大阪・フェニーチェ堺,うらたぬき
+2022_urata_04,Uratanuki Birthday Live〜Love!Love!〜,2022/08/31,宮城・仙台サンプラザホール,うらたぬき
+2023_urata_01,Uratanuki Birthday Live 2023〜Flower〜,2023/08/04,大阪・Zepp Osaka Bayside,うらたぬき
+2023_urata_02,Uratanuki Birthday Live 2023〜Flower〜,2023/08/07,宮城・SENDAI GIGS,うらたぬき
+2023_urata_03,Uratanuki Birthday Live 2023〜Flower〜,2023/08/09,東京・Zepp Haneda(Tokyo),うらたぬき
+2023_urata_04,Uratanuki Birthday Live 2023〜Flower〜,2023/08/17,福岡・Zepp Fukuoka,うらたぬき
+2023_urata_05,Uratanuki Birthday Live 2023〜Flower〜,2023/08/23,愛知・Zepp Nagoya,うらたぬき
+2024_urata_01,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/07,宮城・東京エレクトロンホール宮城,うらたぬき
+2024_urata_02,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/09,神奈川・パシフィコ横浜 大ホール,うらたぬき
+2024_urata_03,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/11,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,うらたぬき
+2024_urata_04,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/12,大阪・フェニーチェ堺,うらたぬき
+2024_urata_05,Uratanuki Birthday Live 2024〜JEWEL〜,2024/12/24,静岡・清水文化会館マリナート 大ホール,うらたぬき
+2024_urata_06,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/18,福岡・北九州ソレイユホール,うらたぬき
+2024_urata_07,Uratanuki Birthday Live 2024〜JEWEL〜,2024/08/20,埼玉・大宮ソニックシティ 大ホール,うらたぬき
+2025_urata_01,Uratanuki Birthday Live 2025 -Update.-,2025/08/06,宮城・仙台サンプラザホール,うらたぬき
+2025_urata_02,Uratanuki Birthday Live 2025 -Update.-,2025/08/08,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,うらたぬき
+2025_urata_03,Uratanuki Birthday Live 2025 -Update.-,2025/08/09,大阪・グランキューブ大阪,うらたぬき
+2025_urata_04,Uratanuki Birthday Live 2025 -Update.-,2025/08/16,東京・東京国際フォーラムホールA,うらたぬき
+2025_urata_05,Uratanuki Birthday Live 2025 -Update.-,2025/08/17,静岡・富士市文化会館ロゼシアター 大ホール,うらたぬき
+2025_urata_06,Uratanuki Birthday Live 2025 -Update.-,2025/08/22,広島・JMSアステールプラザ 大ホール,うらたぬき
+2025_urata_07,Uratanuki Birthday Live 2025 -Update.-,2025/08/24,福岡・久留米シティプラザ ザ・グランドホール,うらたぬき
+2025_urata_08,Uratanuki Birthday Live 2025 -Update.-,2025/08/26,埼玉・大宮ソニックシティ 大ホール,うらたぬき
+2026_urata_01,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/03,宮城・仙台サンプラザホール,うらたぬき
+2026_urata_02,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/09,広島・上野学園ホール,うらたぬき
+2026_urata_03,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/11,兵庫・神戸文化ホール 大ホール,うらたぬき
+2026_urata_04,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/14,愛知・Niterra日本特殊陶業市民文化会館フォレストホール,うらたぬき
+2026_urata_05,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/15,東京・東京ガーデンシアター,うらたぬき
+2026_urata_06,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/28,埼玉・大宮ソニックシティ 大ホール,うらたぬき
+2026_urata_07,Uratanuki Birthday Live 2026 -Black Rose-,2026/08/29,埼玉・大宮ソニックシティ 大ホール,うらたぬき
+2013_shima_01,志麻単独ライブ2013 〜生誕前夜祭だぞこの野郎！〜,2013/11/30,東京・四谷Live inn MAGIC,志麻
+2018_shima_01,First Order,2018/05/04,東京・新宿ReNY 昼の部,志麻
+2018_shima_02,First Order,2018/05/04,東京・新宿ReNY 夜の部,志麻
+2019_shima_01,First OrderⅡ -Mission to Save You-,2019/04/20,愛知・Zepp Nagoya,志麻
+2019_shima_02,First OrderⅡ -Mission to Save You-,2019/04/26,東京・Zepp Tokyo,志麻
+2019_shima_03,First OrderⅡ -Mission to Save You-,2019/04/27,大阪・Zepp Osaka Bayside,志麻
+2021_shima_01,SHIMA LIVE TOUR 2021 -re:noise-,2021/05/01,福岡・Zepp Fukuoka,志麻
+2021_shima_02,SHIMA LIVE TOUR 2021 -re:noise-,2021/05/04,愛知・Zepp Nagoya,志麻
+2021_shima_03,SHIMA LIVE TOUR 2021 -re:noise-,2021/05/16,東京・Zepp Diver City 昼の部,志麻
+2021_shima_04,SHIMA LIVE TOUR 2021 -re:noise-,2021/05/16,東京・Zepp Diver City 夜の部,志麻
+2021_shima_05,SHIMA LIVE TOUR 2021 -re:noise-,2021/08/05,大阪・Zepp Namba,志麻
+2022_shima_01,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/11,大阪・Zepp Namba,志麻
+2022_shima_02,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/12,愛知・Zepp Nagoya,志麻
+2022_shima_03,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/14,福岡・Zepp Fukuoka,志麻
+2022_shima_04,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/18,北海道・Zepp Sapporo,志麻
+2022_shima_05,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/20,宮城・SENDAI GIGS,志麻
+2022_shima_06,SHIMA LIVE TOUR 2022 ミチシルベ,2022/05/21,東京・Zepp Diver City,志麻
+2023_shima_01,SHIMA LIVE TOUR 2023 Violet,2023/05/05,大阪・Zepp Osaka Bayside,志麻
+2023_shima_02,SHIMA LIVE TOUR 2023 Violet,2023/05/06,愛知・Zepp Nagoya,志麻
+2023_shima_03,SHIMA LIVE TOUR 2023 Violet,2023/05/11,宮城・SENDAI GIGS,志麻
+2023_shima_04,SHIMA LIVE TOUR 2023 Violet,2023/05/14,東京・Zepp Haneda(Tokyo),志麻
+2023_shima_05,SHIMA LIVE TOUR 2023 Violet,2023/05/17,福岡・Zepp Fukuoka,志麻
+2023_shima_06,SHIMA LIVE TOUR 2023 Violet,2023/05/25,高知・高知県立県民文化ホール オレンジホール,志麻
+2024_shima_01,SHIMA LIVE TOUR 2024 star!,2024/05/05,大阪・Zepp Osaka Bayside,志麻
+2024_shima_02,SHIMA LIVE TOUR 2024 star!,2024/05/06,福岡・Zepp Fukuoka,志麻
+2024_shima_03,SHIMA LIVE TOUR 2024 star!,2024/05/18,愛知・Zepp Nagoya,志麻
+2024_shima_04,SHIMA LIVE TOUR 2024 star!,2024/05/26,東京・Zepp Haneda(Tokyo),志麻
+2025_shima_01,SHIMA LIVE TOUR 2025 -shiki-,2025/05/03,愛知・Zepp Nagoya,志麻
+2025_shima_02,SHIMA LIVE TOUR 2025 -shiki-,2025/05/05,大阪・Zepp Osaka Bayside,志麻
+2025_shima_03,SHIMA LIVE TOUR 2025 -shiki-,2025/05/06,福岡・Zepp Fukuoka,志麻
+2025_shima_04,SHIMA LIVE TOUR 2025 -shiki-,2025/05/10,宮城・SENDAI GIGS,志麻
+2025_shima_05,SHIMA LIVE TOUR 2025 -shiki-,2025/05/18,東京・Zepp Haneda(Tokyo),志麻
+2025_shima_06,SHIMA LIVE TOUR 2025 -shiki-,2025/05/25,高知・高知県立県民文化ホール オレンジホール,志麻
+2026_shima_01,SHIMA LIVE TOUR 2026 色なき国のアリス～Alice in colorless wonderland～,2026/05/08,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,志麻
+2026_shima_02,SHIMA LIVE TOUR 2026 色なき国のアリス～Alice in colorless wonderland～,2026/05/10,高知・新来島高知重工ホール オレンジホール(高知県立県民文化ホール),志麻
+2026_shima_03,SHIMA LIVE TOUR 2026 色なき国のアリス～Alice in colorless wonderland～,2026/05/24,大阪・グランキューブ大阪,志麻
+2026_shima_04,SHIMA LIVE TOUR 2026 色なき国のアリス～Alice in colorless wonderland～,2026/05/29,宮城・東京エレクトロンホール宮城,志麻
+2026_shima_05,SHIMA LIVE TOUR 2026 色なき国のアリス～Alice in colorless wonderland～,2026/05/31,神奈川・パシフィコ横浜 国立大ホール,志麻
+2016_sakata_01,坂田 First -One Man- Live In OSAKA,2016/06/05,大阪・BIG CAT,となりの坂田。
+2018_sakata_01,坂田 Second One Man Live ～Angel&Damons 来日！～,2018/01/07,東京・Zepp Tokyo 昼公演,となりの坂田。
+2018_sakata_02,坂田 Second One Man Live ～Angel&Damons 来日！～,2018/01/07,東京・Zepp Tokyo 夜公演,となりの坂田。
+2019_sakata_01,AHO NO SAKATA LIVE TOUR 2019 キミに伝えたいこと -message for you.-,2019/05/03,福岡・Zepp Fukuoka,となりの坂田。
+2019_sakata_02,AHO NO SAKATA LIVE TOUR 2019 キミに伝えたいこと -message for you.-,2019/05/04,大阪・Zepp Osaka Bayside,となりの坂田。
+2019_sakata_03,AHO NO SAKATA LIVE TOUR 2019 キミに伝えたいこと -message for you.-,2019/05/06,愛知・Zepp Nagoya,となりの坂田。
+2019_sakata_04,AHO NO SAKATA LIVE TOUR 2019 キミに伝えたいこと -message for you.-,2019/05/11,東京・Zepp Tokyo,となりの坂田。
+2021_sakata_01,AHO NO SAKATA LIVE TOUR 2021 -Redo Parade-,2021/05/30,東京・Zepp Haneda(Tokyo),となりの坂田。
+2021_sakata_02,AHO NO SAKATA LIVE TOUR 2021 -Redo Parade-,2021/06/12,愛知・Zepp Nagoya,となりの坂田。
+2021_sakata_03,AHO NO SAKATA LIVE TOUR 2021 -Redo Parade-,2021/06/26,福岡・Zepp Fukuoka,となりの坂田。
+2021_sakata_04,AHO NO SAKATA LIVE TOUR 2021 -Redo Parade-,2021/06/27,大阪・Zepp Osaka Bayside,となりの坂田。
+2022_sakata_01,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/04,福岡・Zepp Fukuoka,となりの坂田。
+2022_sakata_02,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/05,大阪・Zepp Osaka Bayside,となりの坂田。
+2022_sakata_03,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/12,愛知・Zepp Nagoya,となりの坂田。
+2022_sakata_04,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/17,北海道・Zepp Sapporo,となりの坂田。
+2022_sakata_05,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/23,宮城・SENDAI GIGS,となりの坂田。
+2022_sakata_06,AHO NO SAKATA LIVE TOUR 2022 -Steal your heart-,2022/06/25,東京・Zepp Haneda(Tokyo),となりの坂田。
+2023_sakata_01,AHO NO SAKATA LIVE TOUR 2023 -Home-,2023/06/10,愛知・Zepp Nagoya,となりの坂田。
+2023_sakata_02,AHO NO SAKATA LIVE TOUR 2023 -Home-,2023/06/11,大阪・Zepp Osaka Bayside,となりの坂田。
+2023_sakata_03,AHO NO SAKATA LIVE TOUR 2023 -Home-,2023/06/13,福岡・Zepp Fukuoka,となりの坂田。
+2023_sakata_04,AHO NO SAKATA LIVE TOUR 2023 -Home-,2023/06/17,宮城・SENDAI GIGS,となりの坂田。
+2023_sakata_05,AHO NO SAKATA LIVE TOUR 2023 -Home-,2023/06/25,東京・Zepp Haneda(Tokyo),となりの坂田。
+2024_sakata_01,AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-,2024/06/13,大阪・グランキューブ大阪 メインホール,となりの坂田。
+2024_sakata_02,AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-,2024/06/16,福岡・北九州ソレイユホール,となりの坂田。
+2024_sakata_03,AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-,2024/06/21,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,となりの坂田。
+2024_sakata_04,AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-,2024/06/22,兵庫・神戸国際会館こくさいホール,となりの坂田。
+2024_sakata_05,AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-,2024/06/30,東京・日本武道館,となりの坂田。
+2025_sakata_01,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/03,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,となりの坂田。
+2025_sakata_02,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/06,兵庫・神戸国際会館こくさいホール,となりの坂田。
+2025_sakata_03,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/10,福岡・福岡市民ホール 大ホール,となりの坂田。
+2025_sakata_04,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/14,宮城・仙台サンプラザホール,となりの坂田。
+2025_sakata_05,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/21,大阪・Zepp Osaka Bayside,となりの坂田。
+2025_sakata_06,AHO NO SAKATA LIVE TOUR 2025 -Nurse-,2025/06/28,千葉・幕張メッセ国際展示場 4・5・6ホール,となりの坂田。
+2026_sakata_01,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/06,宮城・仙台サンプラザホール,となりの坂田。
+2026_sakata_02,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/10,福岡・福岡市民ホール 大ホール,となりの坂田。
+2026_sakata_03,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/13,兵庫・神戸国際会館こくさいホール,となりの坂田。
+2026_sakata_04,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/19,愛知・Niterra日本特殊陶業市民文化会館 フォレストホール,となりの坂田。
+2026_sakata_05,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/20,大阪・大阪国際会議場(グランキューブ大阪) メインホール,となりの坂田。
+2026_sakata_06,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/27,東京・両国国技館,となりの坂田。
+2026_sakata_07,AHO NO SAKATA LIVE TOUR 2026 -STAR[T]RAIL-,2026/06/28,東京・両国国技館,となりの坂田。
+2013_senra_01,S STILO!!!,2013/10/27,東京・吉祥寺Planet K,センラ
+2018_senra_01,SENRA LIVE TOUR S STILO!!! :RE,2018/11/11,愛知・Zepp Nagoya,センラ
+2018_senra_02,SENRA LIVE TOUR S STILO!!! :RE,2018/11/17,大阪・Zepp Namba,センラ
+2018_senra_03,SENRA LIVE TOUR S STILO!!! :RE,2018/11/23,宮城・SENDAI GIGS,センラ
+2018_senra_04,SENRA LIVE TOUR S STILO!!! :RE,2018/11/25,東京・チームスマイル・豊洲PIT,センラ
+2019_senra_01,SENRA LIVE TOUR 2019 -Lüge-,2019/11/09,大阪・Zepp Osaka Bayside,センラ
+2019_senra_02,SENRA LIVE TOUR 2019 -Lüge-,2019/11/10,愛知・Zepp Nagoya,センラ
+2019_senra_03,SENRA LIVE TOUR 2019 -Lüge-,2019/11/17,東京・Zepp Tokyo,センラ
+2019_senra_04,SENRA LIVE TOUR 2019 -Lüge-,2019/11/23,福岡・Zepp Fukuoka,センラ
+2021_senra_01,SENRA LIVE TOUR 2021 -À la mode-,2021/11/11,愛知・Zepp Nagoya,センラ
+2021_senra_02,SENRA LIVE TOUR 2021 -À la mode-,2021/11/13,宮城・SENDAI GIGS,センラ
+2021_senra_03,SENRA LIVE TOUR 2021 -À la mode-,2021/11/16,北海道・Zepp Sapporo,センラ
+2021_senra_04,SENRA LIVE TOUR 2021 -À la mode-,2021/11/23,東京・Zepp Tokyo 昼の部,センラ
+2021_senra_05,SENRA LIVE TOUR 2021 -À la mode-,2021/11/23,東京・Zepp Tokyo 夜の部,センラ
+2021_senra_06,SENRA LIVE TOUR 2021 -À la mode-,2021/11/27,福岡・Zepp Fukuoka,センラ
+2021_senra_07,SENRA LIVE TOUR 2021 -À la mode-,2021/11/28,大阪・Zepp Namba,センラ
+2022_senra_01,SENRA LIVE TOUR 2022 -VERITE-,2022/11/05,愛知・Zepp Nagoya,センラ
+2022_senra_02,SENRA LIVE TOUR 2022 -VERITE-,2022/11/06,大阪・Zepp Osaka Bayside 昼の部,センラ
+2022_senra_03,SENRA LIVE TOUR 2022 -VERITE-,2022/11/06,大阪・Zepp Osaka Bayside 夜の部,センラ
+2022_senra_04,SENRA LIVE TOUR 2022 -VERITE-,2022/11/08,福岡・Zepp Fukuoka 昼の部,センラ
+2022_senra_05,SENRA LIVE TOUR 2022 -VERITE-,2022/11/08,福岡・Zepp Fukuoka 夜の部,センラ
+2022_senra_06,SENRA LIVE TOUR 2022 -VERITE-,2022/11/11,宮城・SENDAI GIGS 昼の部,センラ
+2022_senra_07,SENRA LIVE TOUR 2022 -VERITE-,2022/11/11,宮城・SENDAI GIGS 夜の部,センラ
+2022_senra_08,SENRA LIVE TOUR 2022 -VERITE-,2022/11/13,北海道・Zepp Sapporo 昼の部,センラ
+2022_senra_09,SENRA LIVE TOUR 2022 -VERITE-,2022/11/13,北海道・Zepp Sapporo 夜の部,センラ
+2022_senra_10,SENRA LIVE TOUR 2022 -VERITE-,2022/11/23,東京・Zepp Haneda(Tokyo) 昼の部,センラ
+2022_senra_11,SENRA LIVE TOUR 2022 -VERITE-,2022/11/23,東京・Zepp Haneda(Tokyo) 夜の部,センラ
+2022_senra_12,SENRA LIVE TOUR 2022 -VERITE-,2022/11/26,京都・ロームシアター京都 メインホール,センラ
+2022_senra_13,SENRA LIVE TOUR 2022 -VERITE-,2022/11/27,京都・ロームシアター京都 メインホール,センラ
+2023_senra_01,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/07,新潟・新潟テルサ,センラ
+2023_senra_02,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/09,宮城・東京エレクトロンホール宮城,センラ
+2023_senra_03,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/12,神奈川・よこすか芸術劇場大劇場,センラ
+2023_senra_04,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/17,広島・広島文化学園HBGホール,センラ
+2023_senra_05,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/19,福岡・北九州ソレイユホール,センラ
+2023_senra_06,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/23,大阪・フェニーチェ堺,センラ
+2023_senra_07,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/24,愛知・名古屋国際会議場センチュリーホール,センラ
+2023_senra_08,SENRA LIVE TOUR 2023 -GOSSIP-,2023/11/26,東京・東京ガーデンシアター,センラ
+2024_senra_01,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/01,北海道・Zepp Sapporo,センラ
+2024_senra_02,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/03,宮城・SENDAI GIGS,センラ
+2024_senra_03,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/07,岡山・倉敷市民会館,センラ
+2024_senra_04,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/09,愛知・Zepp Nagoya,センラ
+2024_senra_05,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/10,大阪・Zepp Osaka Bayside,センラ
+2024_senra_06,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/12,福岡・Zepp Fukuoka,センラ
+2024_senra_07,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/14,静岡・静岡市民文化会館 大ホール,センラ
+2024_senra_08,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/16,神奈川・KT Zepp Yokohama,センラ
+2024_senra_09,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/17,東京・Zepp Haneda(Tokyo),センラ
+2024_senra_10,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/21,石川・金沢歌劇座,センラ
+2024_senra_11,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/23,京都・ロームシアター京都 メインホール,センラ
+2024_senra_12,SENRA LIVE TOUR 2024 -MARCEL-,2024/11/24,京都・ロームシアター京都 メインホール,センラ
+2025_senra_01,SENRA LIVE TOUR 2025 -Brun-,2025/11/05,兵庫・神戸国際会館こくさいホール,センラ
+2025_senra_02,SENRA LIVE TOUR 2025 -Brun-,2025/11/07,新潟・新潟テルサ,センラ
+2025_senra_03,SENRA LIVE TOUR 2025 -Brun-,2025/11/10,愛知・刈谷市総合文化センター 大ホール,センラ
+2025_senra_04,SENRA LIVE TOUR 2025 -Brun-,2025/11/14,東京・東京ガーデンシアター,センラ
+2025_senra_05,SENRA LIVE TOUR 2025 -Brun-,2025/11/16,宮城・仙台サンプラザホール,センラ
+2025_senra_06,SENRA LIVE TOUR 2025 -Brun-,2025/11/21,広島・広島文化学園HBGホール,センラ
+2025_senra_07,SENRA LIVE TOUR 2025 -Brun-,2025/11/23,福岡・福岡市民ホール 大ホール,センラ
+2025_senra_08,SENRA LIVE TOUR 2025 -Brun-,2025/11/25,大阪・フェニーチェ堺,センラ
+2025_senra_09,SENRA LIVE TOUR 2025 -Brun-,2025/11/27,静岡・アクトシティ浜松 大ホール,センラ
+2025_senra_10,SENRA LIVE TOUR 2025 -Brun-,2025/11/29,京都・ロームシアター京都 メインホール,センラ
+2025_senra_11,SENRA LIVE TOUR 2025 -Brun-,2025/11/30,京都・ロームシアター京都 メインホール,センラ
+2026_senra_01,SENRA LIVE TOUR 2026 Calea,2026/11/03,新潟・新潟県民会館 大ホール,センラ
+2026_senra_02,SENRA LIVE TOUR 2026 Calea,2026/11/05,愛知・刈谷市総合文化センター 大ホール,センラ
+2026_senra_03,SENRA LIVE TOUR 2026 Calea,2026/11/07,大阪・大阪国際会議場(グランキューブ大阪) メインホール,センラ
+2026_senra_04,SENRA LIVE TOUR 2026 Calea,2026/11/12,神奈川・鎌倉芸術館 大ホール,センラ
+2026_senra_05,SENRA LIVE TOUR 2026 Calea,2026/11/14,宮城・仙台サンプラザホール,センラ
+2026_senra_06,SENRA LIVE TOUR 2026 Calea,2026/11/17,石川・金沢歌劇座,センラ
+2026_senra_07,SENRA LIVE TOUR 2026 Calea,2026/11/19,奈良・なら100年会館 大ホール,センラ
+2026_senra_08,SENRA LIVE TOUR 2026 Calea,2026/11/23,福岡・福岡市民ホール 大ホール,センラ
+2026_senra_09,SENRA LIVE TOUR 2026 Calea -nondefective-,2026/11/27,東京・日本武道館,センラ
