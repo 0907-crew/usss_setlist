@@ -4,6 +4,7 @@ echo ====================================
 echo 1. Pythonスクリプトを実行してHTMLを生成中...
 echo ====================================
 python generate_html.py
+echo python end
 
 echo.
 echo ====================================
