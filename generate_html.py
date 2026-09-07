@@ -1,6 +1,13 @@
 import pandas as pd
 import json
 
+# CSVファイルの読み込み
+live_master = pd.read_csv('live_master.csv', encoding='utf-8')
+song_master = pd.read_csv('song_master.csv', encoding='utf-8')
+pattern_detail = pd.read_csv('pattern_detail.csv', encoding='utf-8')
+assign_sheet = pd.read_csv('assign_sheet.csv', encoding='utf-8')
+block_master = pd.read_csv('block_master.csv', encoding='utf-8')
+
 # 1. 各種CSVデータの読み込み
 # 既存のDataFrameを変数名に割り当てます。
 df_live = live_master
