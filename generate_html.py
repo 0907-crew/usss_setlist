@@ -339,7 +339,7 @@ html_template = f"""<!DOCTYPE html>
         if (!artist) return 'header-default';
         if (artist.includes('うらたぬき')) return 'header-urata';
         if (artist.includes('志麻')) return 'header-shima';
-        if (artist.includes('坂田')) return 'header-sakata';
+        if (artist.includes('となりの坂田。')) return 'header-sakata';
         if (artist.includes('センラ')) return 'header-senra';
         if (artist.includes('浦島坂田船')) return 'header-usss';
         return 'header-default';
