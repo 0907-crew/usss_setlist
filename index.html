@@ -16,7 +16,6 @@
         .header-shima { background-color: #e1bee7; }
         .header-sakata { background-color: #ffcdd2; }
         .header-senra { background-color: #fff9c4; }
-        .header-default { background-color: #e0e0e0; }
         .tour-title, .artist-title { font-size: 0.95em; }
         .live-row, .song-master-row { border-bottom: 1px solid #eee; transition: background 0.2s; }
         .live-row:last-child, .song-master-row:last-child { border-bottom: none; }
@@ -111,13 +110,13 @@
     }
 
     function getHeaderClass(artist) {
-        if (!artist) return 'header-default';
-        if (artist.includes('うらたぬき')) return 'header-urata';
-        if (artist.includes('志麻')) return 'header-shima';
-        if (artist.includes('となりの坂田。')) return 'header-sakata';
-        if (artist.includes('センラ')) return 'header-senra';
-        if (artist.includes('浦島坂田船')) return 'header-usss';
-        return 'header-default';
+        if (!artist) return 'header-usss';
+        const cleanArtist = artist.trim();
+        if (cleanArtist === 'うらたぬき') return 'header-urata';
+        if (cleanArtist === '志麻') return 'header-shima';
+        if (cleanArtist === 'あほの坂田。' || cleanArtist === 'となりの坂田。') return 'header-sakata';
+        if (cleanArtist === 'センラ') return 'header-senra';
+        return 'header-usss';
     }
 
     function renderLives() {
