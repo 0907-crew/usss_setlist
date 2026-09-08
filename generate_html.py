@@ -83,9 +83,9 @@ for idx, live in df_live.iterrows():
               'idx': song_idx,
               'is_medley': True,
               'title': song_dict.get(
-          　　　　res1, 'メドレー / コーナー'
-      　　　　),  # 楽曲マスタにあればその名前、なければデフォルト名
-      　　　　'medley_songs': medley_sub_songs,
+                  res1, 'メドレー / コーナー'
+              ),  # 楽曲マスタにあればその名前、なければデフォルト名
+              'medley_songs': medley_sub_songs,
           })
           song_idx += 1
       else:
