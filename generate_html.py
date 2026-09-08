@@ -504,6 +504,13 @@ html_template = f"""<!DOCTYPE html>
         renderSongs();
     }});
     </script>
+<!-- フッター部分 -->
+    <footer class="text-center py-4 text-muted small border-top mt-5">
+        <p class="mb-1">不具合報告・ご意見・ご要望は下記よりお送りください</p>
+        <a href="ご自身のマシュマロのURL" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm">
+            マシュマロでメッセージを送る
+        </a>
+    </footer>
 </body>
 </html>"""
 
