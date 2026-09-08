@@ -82,8 +82,10 @@ for idx, live in df_live.iterrows():
           songs_list.append({
               'idx': song_idx,
               'is_medley': True,
-              'title': 'メドレー / コーナー',
-              'medley_songs': medley_sub_songs,
+              'title': song_dict.get(
+          　　　　res1, 'メドレー / コーナー'
+      　　　　),  # 楽曲マスタにあればその名前、なければデフォルト名
+      　　　　'medley_songs': medley_sub_songs,
           })
           song_idx += 1
       else:
