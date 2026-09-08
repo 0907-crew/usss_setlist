@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-# CSVファイルの読み込み
+# 1. CSVファイルの読み込み
 df_live = pd.read_csv('浦島坂田船 現場まとめ - 公演マスタ.csv', encoding='utf-8')
 df_song = pd.read_csv('浦島坂田船 現場まとめ - 楽曲マスタ.csv', encoding='utf-8')
 df_pattern = pd.read_csv(
@@ -82,9 +82,7 @@ for idx, live in df_live.iterrows():
           songs_list.append({
               'idx': song_idx,
               'is_medley': True,
-              'title': song_dict.get(
-                  res1, 'メドレー / コーナー'
-              ),  # 楽曲マスタにあればその名前、なければデフォルト名
+              'title': song_dict.get(res1, 'メドレー / コーナー'),
               'medley_songs': medley_sub_songs,
           })
           song_idx += 1
@@ -159,7 +157,8 @@ tour_list.sort(key=lambda x: x['first_date'], reverse=True)
 artist_song_groups = {}
 for idx, song in df_song.iterrows():
   s_id = str(song['楽曲ID']).strip()
-  title = str(song['曲名']) if pd.notna(song['曲名']) else ''
+  # song_dict を使用して最新・保存済みの曲名を取得
+  title = song_dict.get(s_id, str(song['曲名']) if pd.notna(song['曲名']) else '')
   artist = (
       str(song['アーティスト'])
       if 'アーティスト' in song and pd.notna(song['アーティスト'])
@@ -224,7 +223,7 @@ def artist_sort_key(x):
 
 artist_song_list.sort(key=artist_sort_key)
 
-# HTMLにJSONデータを埋め込んで出力
+# 6. HTMLの生成と保存
 html_template = f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -425,7 +424,7 @@ html_template = f"""<!DOCTYPE html>
                 `).join('');
                 return `
                     <div class="medley-box">
-                        <div class="medley-title">${{s.idx}}. メドレー / コーナー</div>
+                        <div class="medley-title">${{s.idx}}. ${{s.title}}</div>
                         ${{subRows}}
                     </div>
                 `;
@@ -505,13 +504,6 @@ html_template = f"""<!DOCTYPE html>
         renderSongs();
     }});
     </script>
-<!-- フッター部分 -->
-    <footer class="text-center py-4 text-muted small border-top mt-5">
-        <p class="mb-1">不具合報告・ご意見・ご要望は下記よりお送りください</p>
-        <a href="https://marshmallow-qa.com/1bem41p9vsq1xfn?t=nGs8U6&utm_medium=url_text&utm_source=promotion" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm">
-            マシュマロでメッセージを送る
-        </a>
-    </footer>
 </body>
 </html>"""
 
