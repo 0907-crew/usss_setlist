@@ -16,7 +16,7 @@ git push origin main
 
 echo.
 echo ====================================
-echo ✅ 送信完了！ Netlifyが自動更新を開始しました。
-echo    1分ほどでWebサイトに反映されます
+echo ✅ 送信完了！ GitHub Pagesの自動更新を開始しました。
+echo    1〜2分ほどでWebサイトに反映されます
 echo ====================================
 pause
